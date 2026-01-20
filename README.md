@@ -1,14 +1,3 @@
-# 🥗 NutriVision
-
-**AI-Powered Food Health Dashboard for Smart Dietary Decisions**
-
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.x-red.svg)](https://streamlit.io/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
----
-
 ## 📋 Overview
 
 NutriVision identifies food from images and provides personalized health recommendations. This system calculates comprehensive healthiness scores and suggests better alternatives based on your dietary goals.
@@ -126,7 +115,7 @@ nutrivision/
 
 ## 👤 Author
 
-**Riz** - Data Analytics & BI Professional  
+**Rizvee A** -
 - GitHub: [@rizveea](https://github.com/rizveea)
 - Portfolio: [github.com/rizveea](https://github.com/rizveea)
 
